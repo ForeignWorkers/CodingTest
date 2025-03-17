@@ -5,7 +5,7 @@ public class CodeTest031701 {
 	public static int factorial(int a) {
 		System.out.println(a);
 		int sum = 1;
-		for(int i= a; i>=1l i--)
+		for(int i= a; i>=1l i--) {
 	}
 	public static void main(String[] args) {
 		/*

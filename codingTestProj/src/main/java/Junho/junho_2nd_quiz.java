@@ -8,7 +8,7 @@ public class junho_2nd_quiz {
 //	•	출력: 3
 	
 	public static void main(String[] args) {
-		
+		countIndex("banana");
 	}
 
 	public static int countIndex(String str, char chr) {

@@ -1,3 +1,4 @@
+
 package Junho;
 
 public class CodeTest031701 {
@@ -9,10 +10,10 @@ public class CodeTest031701 {
 	int n;
 
 	public static void main(String[] args) {
-		System.out.println("정답은" + calcNum(5) + "입니다.");
+		
 	}
 	
-	public void calcNum(int n) {
+	public static void calcNum(int n) {
 		n = n*24;
 	}
 	
